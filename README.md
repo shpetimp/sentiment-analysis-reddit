@@ -1,6 +1,6 @@
 # Sentiment Analysis on Reddit Data using BERT (Summer 2019)
 
-This is Yunshu's [Activision](https://www.activision.com/) internship project. We are interested in understanding user opinions about Activision titles on social media data. In this project, we aim to predict sentiment on Reddit data. 
+We are interested in understanding user opinions about Activision titles on social media data. In this project, we aim to predict sentiment on Reddit data. 
 
 __Method__
 
@@ -1156,11 +1156,3 @@ If we submit the paper to a conference or journal, we will update the BibTeX.
 ## Disclaimer
 
 This is not an official Google product.
-
-## Contact information
-
-For help or issues using BERT, please submit a GitHub issue.
-
-For personal communication related to BERT, please contact Jacob Devlin
-(`jacobdevlin@google.com`), Ming-Wei Chang (`mingweichang@google.com`), or
-Kenton Lee (`kentonl@google.com`).
